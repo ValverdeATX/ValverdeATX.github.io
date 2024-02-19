@@ -1,6 +1,7 @@
 # About Me, Theo K. Valverde:
+<div align"center">
+  
 ![intro2](https://github.com/ValverdeATX/ValverdeATX.github.io/assets/157517708/8e3f1161-e570-429e-a408-09a1371f2c37)
-
 
 Theo has been living in Texas since 2014, although prior to that he grew up in Curitiba, Brazil. He has a passion for the problem-solving aspect of software engineering and it's what inspires him to delve deeper into the kinks developers tend to run into when writing code in order to find thoughtful solutions that can enable him and his peers to achieve their design goals. Recent forays into front-end programming has him keen on learning more about HTML and JavaScript in his free time.
 
@@ -22,14 +23,16 @@ Programming: I have developed several projects in C++, Python, and Java. I am al
 Extra: I have previously utilized JIRA Sprints collaboratively in order to share progress, adhere to schedules, and meet goals.<br><br>
 Non-tech: I am fluent in Portuguese and have an indermediate understanding of Spanish.
 
-# Example Project Presentation:
+## A presentation for one of my projects:
 
 The following is an example of one of the projects written by myself along with two collaborators.<br>
-The available PDF is what we presented publicly to our class.
+The available PDF is what we presented publicly to our class, consisting of design principles and UML diagrams.
 
 ![pres pic](https://github.com/ValverdeATX/ValverdeATX.github.io/assets/157517708/38f3bc36-542b-4af9-a2aa-b40e4b512a61)
 [Full Project Presentation.pdf](https://github.com/ValverdeATX/ValverdeATX.github.io/files/14337339/Blackjack.3.pdf)
 
-The code for this project has been made [public](https://github.com/ValverdeATX/BlackjackSimulator).
+The code for this project is open for [view](https://github.com/ValverdeATX/BlackjackSimulator).
 
-Additional projects can be found [here](https://github.com/ValverdeATX).
+## Additional projects:
+
+Additional projects that are public can be found [here](https://github.com/ValverdeATX).
