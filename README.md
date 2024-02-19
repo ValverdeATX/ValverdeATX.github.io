@@ -1,4 +1,5 @@
 # About Me, Theo K. Valverde:
+![intro2](https://github.com/ValverdeATX/ValverdeATX.github.io/assets/157517708/8da2862a-781e-4fef-b581-bf092a11e16e)
 
 Theo has been living in Texas since 2014, although prior to that he grew up in Curitiba, Brazil. He has a passion for the problem-solving aspect of software engineering and it's what inspires him to delve deeper into the kinks developers tend to run into when writing code in order to find thoughtful solutions that can enable him and his peers to achieve their design goals. Recent forays into front-end programming has him keen on learning more about HTML and JavaScript in his free time.
 
@@ -16,13 +17,15 @@ My lengthy experience in a company that heavily emphasized collaborative work an
 
 # Skills of Note:
 
-Programming: I have developed several projects in C++, Python, and Java. I am also familiar with MySQL databases and running queries.<br>
-Extra: I have previously utilized JIRA Sprints collaboratively in order to share progress, adhere to schedules, and meet goals.<br>
+Programming: I have developed several projects in C++, Python, and Java. I am also familiar with MySQL databases and running queries.<br><br>
+Extra: I have previously utilized JIRA Sprints collaboratively in order to share progress, adhere to schedules, and meet goals.<br><br>
 Non-tech: I am fluent in Portuguese and have an indermediate understanding of Spanish.
 
 # Example Project Presentation:
+
+The following is a presentation 
 ![pres pic](https://github.com/ValverdeATX/ValverdeATX.github.io/assets/157517708/38f3bc36-542b-4af9-a2aa-b40e4b512a61)
-[Blackjack (3).pdf](https://github.com/ValverdeATX/ValverdeATX.github.io/files/14337339/Blackjack.3.pdf)
+[Full Project Presentation.pdf](https://github.com/ValverdeATX/ValverdeATX.github.io/files/14337339/Blackjack.3.pdf)
 
 
-Additional projects can be found at:
+Additional projects can be found [here](https://github.com/ValverdeATX).
