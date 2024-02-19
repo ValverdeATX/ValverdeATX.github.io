@@ -21,6 +21,8 @@ Extra: I have previously utilized JIRA Sprints collaboratively in order to share
 Non-tech: I am fluent in Portuguese and have an indermediate understanding of Spanish.
 
 # Example Project Presentation:
+![pres pic](https://github.com/ValverdeATX/ValverdeATX.github.io/assets/157517708/38f3bc36-542b-4af9-a2aa-b40e4b512a61)
+[Blackjack (3).pdf](https://github.com/ValverdeATX/ValverdeATX.github.io/files/14337339/Blackjack.3.pdf)
 
 
 Additional projects can be found at:
