@@ -1,29 +1,26 @@
 # About Me, Theo K. Valverde:
 
-My name is Theo, and I've been living in Austin, Texas since 2014 although I originally grew up in southern Brazil.
+Theo has been living in Texas since 2014, although prior to that he grew up in Curitiba, Brazil. He has a passion for the problem-solving aspect of software engineering and it's what inspires him to delve deeper into the kinks developers tend to run into when writing code in order to find thoughtful solutions that can enable him and his peers to achieve their design goals. Recent forays into front-end programming has him keen on learning more about HTML and JavaScript in his free time.
 
-I have a passion for the problem-solving aspect of software engineering, and that's what inspires me to delve deeper into the kinks we tend to run into when writing code in order to find thoughtful solutions that can be utilized in the pursuit of our goals.
-
-Having graduated university from Texas State just a few weeks ago, I find myself eager to step into the tech industry and begin a new chapter in my career.
+Having graduated university from Texas State just a few weeks ago (December, 2023) with a Computer Science - Bachelor of Science degree, he finds himself eager to step into the tech industry and begin a new chapter of his career. Outside of work and university, he closely follows Formula 1, eSports of all kinds, and both Brazilian/European soccer leagues.
 
 # Resume:
 
-My resume can be found at: 
+An up-to-date resume can be found at:
 
-# Prior Experience:
+# Work and Education: 
 
-I spent nearly five years working at Blizzard Entertainment as a resolutions specialist for tech and payment issues for their products, and while working there I was able to have an in-depth look at many different projects throughout the company which inspired me to begin learning how to code. My days then consisted of studying at Austin Community College in the morning and heading to work after classes, until around COVID when I decided to head into university full-time.
+Having spent nearly five years working at Blizzard Entertainment resolving technical and payment issues for their products along with being chosen by the company's eSports departments to participate yearly with administrative duties at their annual BlizzCon, I was able to meet many of the people who made the company work and the products which they supported. This experience inspired me to begin learning how to code, and my days then consisted of studying at Austin Community College in the mornings and heading to work after classes, up until around the start of COVID where I heated into university full-time.
 
-Having worked in a company that emphasized collaborative work for nearly five years at Blizzard Entertainment and then proceeding to design and write code in group projects at Texas State University for several different professors, I find that working with others is one of my strong-suits, and that I have also come to be able to learn from my peers in order to grow not only talent-wise but also as an indiviudal.
+My lengthy experience in a company that heavily emphasized collaborative work and then proceeding to design and write code in group projects at Texas State University for several professors all helped make it so that working with others became one of my strong suits, as it enabled me to learn from my peers in order to grow not only talent-wise but also as an individual.
 
 # Skills of Note:
 
-Programming: I have developed several programs in C++, Python, and Java. I am also familiar with implementing MySQL databases and running queries.<br>
-Additional: I am accostumed to utilizing JIRA Sprints collaboratively in order to adhere to goals and schedules.<br>
-Non-programming: I am fluent in Portuguese and have an intermediate understanding of Spanish. Outside of work and classes I am a huge fan of soccer, Formula 1, and eSports.
+Programming: I have developed several projects in C++, Python, and Java. I am also familiar with MySQL databases and running queries.<br>
+Extra: I have previously utilized JIRA Sprints collaboratively in order to share progress, adhere to schedules, and meet goals.<br>
+Non-tech: I am fluent in Portuguese and have an indermediate understanding of Spanish.
+
+# Example Project Presentation:
 
 
-# Example Project:
-
-
-Additional projects can be found in my GitHub page,
+Additional projects can be found at:
