@@ -1,7 +1,6 @@
 # About Me, Theo K. Valverde:
-<div align"center">
   
-![intro2](https://github.com/ValverdeATX/ValverdeATX.github.io/assets/157517708/8e3f1161-e570-429e-a408-09a1371f2c37)
+![intro2 (2)](https://github.com/ValverdeATX/ValverdeATX.github.io/assets/157517708/f6ebe588-cbc4-498d-ae47-a479096a8553)
 
 Theo has been living in Texas since 2014, although prior to that he grew up in Curitiba, Brazil. He has a passion for the problem-solving aspect of software engineering and it's what inspires him to delve deeper into the kinks developers tend to run into when writing code in order to find thoughtful solutions that can enable him and his peers to achieve their design goals. Recent forays into front-end programming has him keen on learning more about HTML and JavaScript in his free time.
 
