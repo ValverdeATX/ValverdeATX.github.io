@@ -6,10 +6,6 @@ Theo has been living in Texas since 2014, although prior to that he grew up in C
 
 Having graduated university from Texas State just a few weeks ago (December, 2023) with a Computer Science - Bachelor of Science degree, he finds himself eager to step into the tech industry and begin a new chapter of his career. Outside of work and university, he closely follows Formula 1, eSports of all kinds, and both Brazilian/European soccer leagues.
 
-# Resume:
-
-An up-to-date resume can be found at:
-
 # Work and Education: 
 
 Having spent nearly five years working at Blizzard Entertainment resolving technical and payment issues for their products along with being chosen by the company's eSports departments to participate yearly with administrative duties at their annual BlizzCon, I was able to meet many of the people who made the company work and the products which they supported. This experience inspired me to begin learning how to code, and my days then consisted of studying at Austin Community College in the mornings and heading to work after classes, up until around the start of COVID where I heated into university full-time.
