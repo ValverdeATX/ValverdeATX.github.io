@@ -23,11 +23,11 @@ Non-tech: I am fluent in <b>Portuguese</b> and have an indermediate understandin
 The following is an example of one of the projects written by myself along with two collaborators.<br>
 The available PDF is what we presented publicly to our class, consisting of design principles and UML diagrams.
 
-![pres pic](https://github.com/ValverdeATX/ValverdeATX.github.io/assets/157517708/38f3bc36-542b-4af9-a2aa-b40e4b512a61)
+![page1front](https://github.com/ValverdeATX/ValverdeATX.github.io/assets/157517708/45aa56be-eb74-4ac8-a74e-e1a2f0983f32)
+
 ![HjDvWhq](https://github.com/ValverdeATX/ValverdeATX.github.io/assets/157517708/7cc3e454-6e9f-4eba-90ef-49ebdf5385df)
 
-
-[Full Project Presentation.pdf](https://github.com/ValverdeATX/ValverdeATX.github.io/files/14337339/Blackjack.3.pdf)
+[BlackjackPresentation.pdf](https://github.com/ValverdeATX/ValverdeATX.github.io/files/14352682/BlackjackPresentation.pdf)
 
 The code for this project is public for viewing [here](https://github.com/ValverdeATX/BlackjackSimulator).
 
