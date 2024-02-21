@@ -14,9 +14,9 @@ My lengthy experience in a company that heavily emphasized collaborative work an
 
 # Skills of Note:
 
-Programming: I have developed several projects in C++, Python, and Java. I am also familiar with MySQL databases and running queries.<br><br>
+Programming: I have developed several projects in <b>C++, Python, and Java.</b> I am also familiar with <b>SQL</b> databases and running queries.<br><br>
 Extra: I have previously utilized JIRA Sprints collaboratively in order to share progress, adhere to schedules, and meet goals.<br><br>
-Non-tech: I am fluent in Portuguese and have an indermediate understanding of Spanish.
+Non-tech: I am fluent in <b>Portuguese</b> and have an indermediate understanding of <b>Spanish</b>.
 
 ## A presentation for one of my projects:
 
