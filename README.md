@@ -2,9 +2,9 @@
 
 ![intro2](https://github.com/ValverdeATX/ValverdeATX.github.io/assets/157517708/8555d4e6-27f9-4210-855e-602d6eba3acd)
 
-Theo has been living in Texas since 2014, although prior to that he grew up in Curitiba, Brazil. He has a passion for the problem-solving aspect of software engineering and it's what inspires him to delve deeper into the kinks developers tend to run into when writing code in order to find thoughtful solutions that can enable him and his peers to achieve their design goals. Recent forays into front-end programming has him keen on learning more about HTML and JavaScript in his free time.
+Theo has been living in Texas since 2014, although prior to that he grew up in Curitiba, Brazil. He has a passion for the problem-solving aspect of software engineering and it's what inspires him to delve deeper into the kinks developers tend to run into when writing code in order to find thoughtful solutions that can enable him and his peers to achieve their design goals. Recent forays into side-projects has him keen on learning more about Unreal Engine, HTML, and JavaScript in his free time.
 
-Having graduated university from Texas State just a few weeks ago (December, 2023) with a Computer Science - Bachelor of Science degree, he finds himself eager to step into the tech industry and begin a new chapter of his career. Outside of work and university, he closely follows Formula 1, eSports of all kinds, and both Brazilian/European soccer leagues.
+Having graduated university from Texas State just a few weeks ago (December, 2023) with a Computer Science - Bachelor of Science degree, he finds himself eager to step into the tech industry and begin a new chapter of his career. Outside of work and university, he closely follows Formula 1, eSports of all kinds, and both the Brazilian/European soccer leagues.
 
 # Work and Education: 
 
@@ -31,6 +31,6 @@ The available PDF is what we presented publicly to our class, consisting of desi
 
 The code for this project is public for viewing [here](https://github.com/ValverdeATX/BlackjackSimulator).
 
-## Additional projects:
+# More projects:
 
-Additional projects that are public can be found [here](https://github.com/ValverdeATX).
+Additional projects that are publicly available can be found [here](https://github.com/ValverdeATX).
