@@ -4,7 +4,7 @@ Theo has been living in Texas since 2014, although prior to that he grew up in C
 
 Having graduated university from Texas State just a few months ago (December, 2023) with a Computer Science - Bachelor of Science degree, he finds himself eager to step into the tech industry and begin a new chapter of his career. Outside of work and university, he closely follows Formula 1, eSports of all kinds, and both the Brazilian/European soccer leagues.
 
-<b>April, 2024 Update</b>: As of April 2024, Theo is continuing to learn more about HTML, front-end, and starting the process of building his own website. He is also looking to earn Python certification.
+<b>April, 2024 Update</b>: As of March, Theo is continuing to learn more about HTML, front-end, and starting the process of building his own website. He is also looking to earn Python certification while exploring different possibilities in the tech field.
 
 # Work and Education: 
 
