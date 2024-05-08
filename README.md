@@ -4,13 +4,13 @@
 
 Theo has been living in Texas since 2014, although prior to that he grew up in Curitiba, Brazil. He has a passion for the problem-solving aspect of software engineering and it's what inspires him to delve deeper into the kinks developers tend to run into when writing code in order to find thoughtful solutions that can enable him and his peers to achieve their design goals. Recent forays into side-projects has him keen on learning more about Unreal Engine, HTML, and JavaScript in his free time.
 
-Having graduated university from Texas State just a few months ago (December, 2023) with a Computer Science - Bachelor of Science degree, he finds himself eager to step into the tech industry and begin a new chapter of his career. Outside of work and university, he closely follows Formula 1, eSports of all kinds, and both the Brazilian/European soccer leagues.
+Having graduated university from Texas State just a few months ago (December, 2023) with a Computer Science - Bachelor of Science degree, he finds himself eager to step into the tech industry and begin a new chapter of his career, while also leveraging his prior professional experience in product and tech support to open new possibilities.
 
 <b>April, 2024 Update</b>: As of April, Theo is continuing to learn more about HTML, JavaScript, and starting the process of building his own website. Out of personal passion, he is getting better at developing side projects in the Unreal Engine, as he explores different possibilities in the tech field.
 
 # Work and Education: 
 
-Having spent nearly five years working at Blizzard Entertainment resolving technical and payment issues for their products along with being chosen by the company's eSports departments to participate yearly with administrative duties at their annual BlizzCon, I was able to meet many of the people who made the company work and the products which they supported. This experience inspired me to begin learning how to code, and my days then consisted of studying at Austin Community College in the mornings and heading to work after classes, up until around the start of COVID where I heated into university full-time.
+Having spent nearly five years working at Blizzard Entertainment resolving technical, payment, and product issues for their users along with being chosen by the company's developmental departments to participate yearly with unique tech-driven roles at their annual BlizzCon, I was able to meet many of the people who made the company work and the products which they supported. This experience inspired me to begin learning how to code, and my days then consisted of studying at Austin Community College in the mornings and heading to work after classes, up until around the start of COVID where I heated into university full-time.
 
 My lengthy experience in a company that heavily emphasized collaborative work and then proceeding to design and write code in group projects at Texas State University for several professors all helped make it so that working with others became one of my strong suits, as it enabled me to learn from my peers in order to grow not only talent-wise but also as an individual.
 
