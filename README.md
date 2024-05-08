@@ -10,7 +10,7 @@ Having graduated university from Texas State just a few months ago (December, 20
 
 # Skills of Note:
 
-Professional background: I bring four and a half years of knowledge in <b>multitasking in a fast-paced, live-service environment</b> providing <b>technical and product support</b> to users in Portuguese, English, and Spanish with a focus on <b>excellence, efficiency, and customer satisfaction</b>.<br><br>
+Professional background: I bring four and a half years of knowledge for <b>multitasking in a fast-paced, live-service environment</b> providing <b>technical and product support</b> to users in Portuguese, English, and Spanish with a focus on <b>excellence, efficiency, and customer satisfaction</b>.<br><br>
 Programming experience: I have developed several projects in <b>C++, Python, and Java.</b> I am also familiar with <b>SQL</b> databases and running queries.<br><br>
 Extra: I am accustomed to using <b>GitHub</b> and <b>JIRA</b> Sprints collaboratively in order to share progress, adhere to schedules, and meet goals.<br><br>
 Non-tech: I am fluent in <b>Portuguese, English,</b> and have an advanced understanding of <b>Spanish</b>.
