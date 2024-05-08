@@ -8,17 +8,18 @@ Having graduated university from Texas State just a few months ago (December, 20
 
 <b>April, 2024 Update</b>: As of April, Theo is continuing to learn more about HTML, JavaScript, and starting the process of building his own website. Out of personal passion, he is getting better at developing side projects in the Unreal Engine, as he explores different possibilities in the tech field.
 
+# Skills of Note:
+
+Professional background: I bring four and a half years of knowledge in <b>multitasking in a fast-paced, live-service environment</b> providing <b>technical and product support</b> to users in Portuguese, English, and Spanish with a focus on <b>excellence, efficiency, and customer satisfaction</b>.<br><br>
+Programming experience: I have developed several projects in <b>C++, Python, and Java.</b> I am also familiar with <b>SQL</b> databases and running queries.<br><br>
+Extra: I am accustomed to using <b>GitHub</b> and <b>JIRA</b> Sprints collaboratively in order to share progress, adhere to schedules, and meet goals.<br><br>
+Non-tech: I am fluent in <b>Portuguese, English,</b> and have an advanced understanding of <b>Spanish</b>.
+
 # Work and Education: 
 
 Having spent nearly five years working at Blizzard Entertainment resolving technical, payment, and product issues for their users along with being chosen by the company's developmental departments to participate yearly with unique tech-driven roles at their annual BlizzCon, I was able to meet many of the people who made the company work and the products which they supported. This experience inspired me to begin learning how to code, and my days then consisted of studying at Austin Community College in the mornings and heading to work after classes, up until around the start of COVID where I heated into university full-time.
 
 My lengthy experience in a company that heavily emphasized collaborative work and then proceeding to design and write code in group projects at Texas State University for several professors all helped make it so that working with others became one of my strong suits, as it enabled me to learn from my peers in order to grow not only talent-wise but also as an individual.
-
-# Skills of Note:
-
-Programming: I have developed several projects in <b>C++, Python, and Java.</b> I am also familiar with <b>SQL</b> databases and running queries.<br><br>
-Extra: I am accustomed to using <b>GitHub</b> and <b>JIRA</b> Sprints collaboratively in order to share progress, adhere to schedules, and meet goals.<br><br>
-Non-tech: I am fluent in <b>Portuguese, English,</b> and have an advanced understanding of <b>Spanish</b>.
 
 ## A presentation for one of my projects:
 
